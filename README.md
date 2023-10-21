@@ -1,3 +1,3 @@
 # Projects-and-Scripts
 
-My Python learning journey.
+My Python and Detection Engineering learning journey.
